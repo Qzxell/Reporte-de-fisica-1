@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1681661442 "c:/Users/Lexa/Documents/Programacion/Latex/Reporte-de-fisica-1/main.tex" "build/main.pdf" "main" 1681661447 2
+["pdflatex"] 1681664515 "c:/Users/Lexa/Documents/Programacion/Latex/Reporte-de-fisica-1/main.tex" "build/main.pdf" "main" 1681664522 0
   "C:/Users/Lexa/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1681660326 333189 39255e09a01d5efdd777106ff3d0bd14 ""
   "C:/Users/Lexa/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1681660056 23932347 b4ab0c0ed276aa1997ccbf41ee683b4c ""
   "C:/Users/Lexa/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1001775420 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -136,15 +136,14 @@
   "Imagenes/regla.jpg" 1681659498 111834 753b2394376bbbd19584d0545eec3669 ""
   "Imagenes/vaso.jpg" 1681659498 47174 59a1f4658d386b4dcca43afa0a99ae03 ""
   "Imagenes/vernier.png" 1681659498 5428 630833389c9497ae1b72723fb103fd32 ""
-  "build/main.aux" 1681661446 8706 f00321a6dd87e653fdef574532129a4a "pdflatex"
-  "build/main.out" 1681661446 3734 2071b20be780c3f0a33cacd80052a6da "pdflatex"
-  "build/main.toc" 1681661446 2128 635568a94eefa3200cde0c8503613a55 "pdflatex"
-  "c:/Users/Lexa/Documents/Programacion/Latex/Reporte-de-fisica-1/main.tex" 1681661430 6590 e3a8234860972d4dcbc19d084a2ef6a7 ""
-  "main.tex" 1681661430 6590 e3a8234860972d4dcbc19d084a2ef6a7 ""
-  "main.toc" 0 -1 0 ""
-  "seccions/section1.tex" 1681661274 12916 7d1e5ce6ef7218cbe6d797a51f87602c ""
-  "seccions/section2.tex" 1681661359 7348 d94acbd83d2b3abb3b6fa6db70913648 ""
-  "seccions/section3.tex" 1681661424 14036 aa5cad57e9c2ca3cc9e16a891dd5b2f7 ""
+  "build/main.aux" 1681664521 7767 59caa342676f7c395747896e1b295aa5 "pdflatex"
+  "build/main.out" 1681664521 3734 2071b20be780c3f0a33cacd80052a6da "pdflatex"
+  "build/main.toc" 1681664521 2128 635568a94eefa3200cde0c8503613a55 "pdflatex"
+  "c:/Users/Lexa/Documents/Programacion/Latex/Reporte-de-fisica-1/main.tex" 1681664500 6290 b9f596550ce7e6cc3d64db89e5aa38dd ""
+  "main.tex" 1681664500 6290 b9f596550ce7e6cc3d64db89e5aa38dd ""
+  "seccions/section1.tex" 1681664248 12871 a2fe831cebeb20fa22d94aa49eb46808 ""
+  "seccions/section2.tex" 1681663614 7398 effcf47b59936a5c6e23d1e60db689d1 ""
+  "seccions/section3.tex" 1681664514 14087 dd1c1558534987df03dc5419293b3540 ""
   (generated)
   "build/main.aux"
   "build/main.log"
